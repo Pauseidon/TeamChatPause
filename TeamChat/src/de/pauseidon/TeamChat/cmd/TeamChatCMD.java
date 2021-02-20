@@ -14,7 +14,7 @@ import de.pauseidon.TeamChat.main;
 
 public class TeamChatCMD implements CommandExecutor {
 
-	// I SAID FUCK OFF AND DONT STEAL THE FUCKING CODE JUST DOWNLOAD IT FROM MY ODYSEE!
+	//(Ignore if u are on GitHub) I SAID FUCK OFF AND DONT STEAL THE FUCKING CODE JUST DOWNLOAD IT FROM MY ODYSEE!
 	
 	String Prefix = main.getPlugin().getConfig().getString("Prefix"); 
 	String Permission = main.getPlugin().getConfig().getString("Permission"); 
