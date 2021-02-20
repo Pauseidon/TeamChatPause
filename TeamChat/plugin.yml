@@ -1,0 +1,29 @@
+#   __________                                .__     .___                                ___________.__                       _____                     .___                
+#   \______   \_____    __ __   ______  ____  |__|  __| _/  ____    ____      ___  ___    \__    ___/|  |__    ____    ____  _/ ____\  ____    ____    __| _/  ____  _______ 
+#    |     ___/\__  \  |  |  \ /  ___/_/ __ \ |  | / __ |  /  _ \  /    \     \  \/  /      |    |   |  |  \ _/ __ \  /  _ \ \   __\ _/ __ \  /    \  / __ | _/ __ \ \_  __ \
+#    |    |     / __ \_|  |  / \___ \ \  ___/ |  |/ /_/ | (  <_> )|   |  \     >    <       |    |   |   Y  \\  ___/ (  <_> ) |  |   \  ___/ |   |  \/ /_/ | \  ___/  |  | \/
+#    |____|    (____  /|____/ /____  > \___  >|__|\____ |  \____/ |___|  /    /__/\_ \      |____|   |___|  / \___  > \____/  |__|    \___  >|___|  /\____ |  \___  > |__|   
+#                   \/             \/      \/          \/              \/           \/                    \/      \/                      \/      \/      \/      \/       
+
+
+#Copyright Paul-Theodor.de to Present
+#All rights reserved.
+
+
+
+name: Name
+api-version: 1.13
+version: 0.1
+main: de.pauseidon.TeamChat.main
+author: Pauseidon
+load: STARTUP
+website: Pauseidon.de
+description: The 100% customizable TeamChat Plugin made by Pauseidon.
+
+commands:
+ plugininfo:
+ disablepause:
+ teamchat:
+    aliases: tc
+permission:
+ teamchat:
